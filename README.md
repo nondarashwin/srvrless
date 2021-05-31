@@ -1,0 +1,4 @@
+# srvrless
+```bash
+ sls deploy
+```
